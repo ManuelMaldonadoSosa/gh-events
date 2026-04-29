@@ -7,7 +7,7 @@ on:
     branches:
       - main
       - 'dev-*' # dev-new dev-this
-      - 'feat/**' # feat/new feat/new/this
+      - 'feat/**' # feat/new feat/new/this ff
     paths-ignore:
       - '.github/workflows/*'
 jobs:
